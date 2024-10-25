@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "979784471852",
+    "project_id": "gosulogin-a70c9",
+    "storage_bucket": "gosulogin-a70c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979784471852:android:e45669e9443dd2834ec889",
+        "android_client_info": {
+          "package_name": "com.example.helloworld"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbAkDA567vMwonhcw_TsH7GG0WaPZaVp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
